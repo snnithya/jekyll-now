@@ -7,3 +7,4 @@ I am a musician trained in Hindustani vocal music and an engineering graduate wi
 I also sing and love exploring new kinds of music. I do some amateur recordings every once in a while (feel free to judge me on YouTube or Instagram from the icons below :)). I am also slightly overly obessessed with dogs. I also do spend my time trying to be "artsy" and draw/animate stuff in the process.
 So feel free to hit me up if you want to talk about music, tech or even exchange dog pictures :)
 </p>
+<img src=https://raw.githubusercontent.com/snnithya/snnithya.github.io/master/images/c45ee74d-4b3d-4b9f-b4c2-e4e470383e91.jpg height=300>
