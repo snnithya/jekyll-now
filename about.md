@@ -8,4 +8,4 @@ Feel free to hit me up if you want to discuss music, tech, jokes that are so bad
 
 ### Contact me
 
-snnithya@gmail.com(mailto:email@domain.com)
+Send me a mail!(mailto:snnithya@gmail.com)
