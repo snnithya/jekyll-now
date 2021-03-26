@@ -8,4 +8,4 @@ Here is my <a href="https://raw.githubusercontent..com/snnithya/snnithya.github.
 
 ### Contact me
 
-Send me a mail!(mailto:snnithya@gmail.com)
+Shoot me a mail at <a href=mailto:snnithya@gmail.com>snnithya@gmail.com</a>
