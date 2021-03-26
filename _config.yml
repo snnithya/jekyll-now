@@ -9,7 +9,7 @@ name: Nithya Nadig Shikarpur
 description: Research Assisstant, Digital Audio Processing Lab, IITB; Musician
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "https://github.com/snnithya/snnithya.github.io/blob/master/images/c45ee74d-4b3d-4b9f-b4c2-e4e470383e91.jpg"
+avatar: ![_config.yml]({{ site.baseurl }}/images/config.png)
 #
 # Flags below are optional
 #
