@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Feel free to hit me up if you want to discuss music, tech, jokes that are so bad that they are good, dogs or anything else that interests you!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+snnithya@gmail.com(mailto:email@domain.com)
